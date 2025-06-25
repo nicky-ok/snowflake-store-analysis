@@ -15,7 +15,7 @@ This project contains SQL scripts used to build a dimensional model and analyze 
 - Secure views for selective data access
 - ETL logic for sales and performance tracking
 
-## Tools Used
+##Tools Used
 
 - Snowflake Cloud Data Warehouse
 - SQL
